@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_profile"
+
+            android:title="My Profile" />
+        <item
+            android:id="@+id/nav_Rides"
+
+            android:title="Rides" />
+        <item
+            android:id="@+id/nav_SelectedRides"
+
+            android:title="RidesSelected" />
+        <item
+            android:id="@+id/nav_RidesPosted"
+
+            android:title="Post Rides" />
+        <item
+            android:id="@+id/nav_About"
+
+            android:title="About US" />
+        
+        <item
+            android:id="@+id/nav_contactus"
+
+            android:title="Contact US" />
+
+
+    </group>
+
+
+
+</menu>

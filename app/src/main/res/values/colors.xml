@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="app_dark_color">#00b09b</color>
+    <color name="Grey">#BDB9B8</color>
+    <color name="blue">#183D9B</color>
+    <color name="red">#bce6eb</color>
+    <color name="white">#ffffff</color>
+    <color name="hint">#1F314A </color>
+    <color name="startbtncolor">#3BC0DA</color>
+    <color name="endbtncolor">#0477BA</color>
+    <color name="grey">#88888B</color>
+    <color name="about_desc">#808080</color>
+    <color name="googlestartbtncolor">#C2393D</color>
+    <color name="googleendbtncolor">#D23E3E</color>
+    <color name="fbstartbtncolor">#2353B8</color>
+    <color name="fbendbtncolor">#0477BA</color>
+    <color name="transparent">#00000000</color>
+    <color name="fotgot">#0578BA</color>
+    <color name="toolbar_boarder">#660000</color>
+    <color name="toolbarcolor">#0578BA</color>
+    <color name="textcolor">#FF1F314A</color>
+    <color name="background">#80EFF1F5</color>
+    <color name="gradient_white">#EFF1F5</color>
+    <color name="black">#000000</color>
+    <color name="primary_text">#212121</color>
+    <color name="wel_text_color">#88888B</color>
+    <color name="textcolor_opacity">#661F314A</color>
+    <color name="num_color">#FFD750</color>
+    <color name="whit1e">#FFFFFF</color>
+    <color name="indigo">#59D654</color>
+    <color name="star_text">#F5A623</color>
+    <color name="adds">#dcdcdc</color>
+    <color name="ads_textcolor">#c7c7c7</color>
+    <color name="white_opacity">#66FFFFFF</color>
+    <color name="text_90_opa">#E61F314A</color>
+    <color name="gradient_white_opacity">#BFEFF1F5</color>
+    <color name="white_50">#80FFFFFF</color>
+    <color name="start_back">#EFF1F5BD</color>
+    <color name="profile_back">#f9fafc</color>
+    <color name="textcolor_10">#1A1F314A</color>
+    <color name="trans">#0000ffff</color>
+    <color name="online">#f6f7f9</color>
+    <color name="que">#F4EEF3</color>
+    <color name="not_play_game">#D5D8DD</color>
+    <color name="shadow">#8A244979</color>
+
+    <color name="hint_color">#802a2a2a</color>
+    <color name="main_text_color">#2a2a2a</color>
+    <color name="hint_color_without_opacity">#949494</color>
+    <color name="app_light_color">#96c93d</color>
+    <color name="forgotpass_txt">#686868</color>
+    <color name="newuser">#7e7e7e</color>
+    <color name="property_detail_text">#535151</color>
+    <color name="fav_selected_property_price">#192524</color>
+    <color name="fav_selected_property_price_background">#80ffffff</color>
+    <color name="property_desc_small_details">#0a0a0a</color>
+    <color name="search_bar_text">#aaaaaa</color>
+    <color name="search_bar_background">#e8eaea</color>
+    <color name="camera_background">#15e4bf</color>
+    <color name="filter_clear_all_color">#dfdfdf</color>
+    <color name="price_in_filter">#757373</color>
+    <color name="statusbar_back_color">#33f0f0f0</color>
+    <color name="statusbar_back_color_opac">#fcfcfc</color>
+    <color name="vieww">#cbcdcd</color>
+    <color name="dot_inactive">#89c6a5</color>
+    <color name="detail_page">#0b2421</color>
+    <color name="detail_page_opacity">#7D0b2421</color>
+
+    <color name="card1">#d4cbe5</color>
+    <color name="card2">#7adccf</color>
+    <color name="card3">#f7c59f</color>
+    <color name="card4">#b8d7f5</color>
+    <color name="card5">#e27c6f</color>
+    <color name="card6">#c9e3db</color>
+    <color name="card7">#86d098</color>
+
+
+</resources>

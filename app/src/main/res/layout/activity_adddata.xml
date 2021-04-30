@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".RidespostedActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <androidx.appcompat.widget.Toolbar
+                android:id="@+id/toolbar"
+                android:layout_width="match_parent"
+                android:layout_height="?attr/actionBarSize"
+                android:background="@color/colorPrimary"
+                android:elevation="4dp"
+                android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
+
+                <ImageView
+                    android:id="@+id/close"
+                    android:layout_width="30dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="20dp"
+                    android:src="@drawable/close_icon" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="30dp"
+                    android:text="Post Ride"
+                    android:textSize="28dp" />
+            </androidx.appcompat.widget.Toolbar>
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="50dp"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Please Enter the Required Details Below."
+                    android:textSize="20sp"/>
+
+
+
+                <EditText
+                    android:id="@+id/ride_desc"
+                    android:layout_width="300dp"
+                    android:layout_height="wrap_content"
+                    android:hint="Ride desc"
+                    android:textColor="#000"
+                    android:textSize="20sp" />
+
+                <EditText
+                    android:id="@+id/from"
+                    android:layout_width="300dp"
+                    android:layout_height="wrap_content"
+                    android:hint="From"
+                    android:textColor="#000"
+                    android:textSize="20sp" />
+
+                <EditText
+                    android:id="@+id/to"
+                    android:layout_width="300dp"
+                    android:layout_height="wrap_content"
+                    android:hint="To"
+                    android:textColor="#000"
+                    android:textSize="20sp" />
+
+
+
+
+
+                <EditText
+                    android:id="@+id/price"
+                    android:layout_width="300dp"
+                    android:layout_height="wrap_content"
+                    android:hint="price"
+                    android:textColor="#000"
+                    android:textSize="20sp" />
+                <EditText
+                    android:id="@+id/seats"
+                    android:layout_width="300dp"
+                    android:layout_height="wrap_content"
+                    android:hint="Seats"
+                    android:textColor="#000"
+                    android:textSize="20sp" />
+
+
+                <EditText
+                    android:id="@+id/rating"
+                    android:layout_width="300dp"
+                    android:layout_height="wrap_content"
+                    android:hint="Pick up and  Drop LOcation "
+                    android:textColor="#000"
+                    android:textSize="20sp" />
+
+
+
+
+
+                <Button
+                    android:id="@+id/add"
+                    android:layout_width="wrap_content"
+                    android:layout_height="40dp"
+                    android:layout_marginTop="5dp"
+                    android:hint="ADD" />
+
+
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+
+</RelativeLayout>
